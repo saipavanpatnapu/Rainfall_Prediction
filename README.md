@@ -3,19 +3,19 @@
 This project aims to predict whether it will rain tomorrow using historical weather data. It applies multiple machine learning models to compare performance and deploys the final model using Streamlit for a user-friendly web interface.
 
 ## ML Models
-Logistic Regression
-Naive Bayes
-Decision Tree
-Random Forest
-Gradient Boosting
-SVM
-XGBoost
+- Logistic Regression
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+- SVM
+- XGBoost
 
 ## Evaluation Metrics
-Accuracy
-Confusion Matrix
-Classification Report
-Bar graph Comparison
+- Accuracy
+- Confusion Matrix
+- Classification Report
+- Bar graph Comparison
 
 ## Streamlit Web App - Implementation
 Run the commands in the CommandPrompt:
